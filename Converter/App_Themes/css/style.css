@@ -1,0 +1,54 @@
+
+/* 2012/09/10 Create */
+/* gridTitle */
+.gridTitle {
+	text-align: left;
+	height:auto;
+	font-size:13px;
+	color:Gray;
+}
+
+/* 2012/09/11 Create */
+/* gridHead */
+.gridHead {
+	text-align:left;
+	height:auto;
+	font-size:13px;
+	font-weight:bold;
+	color:White;
+	background-color:#000084;
+	border-color:White;
+	border-style:solid;
+	border-width:thin;
+}
+
+/* 2012/09/11 Create */
+/* gridText */
+.gridText {
+	text-align: left;
+	height:auto;
+	font-size:13px;
+	color:Black;
+	background-color:#EEEEEE;
+	border-color:White;
+	border-style:solid;
+	border-width:thin;
+}
+
+/* 2012/09/10 Create */
+/* tableLabel */
+.tableLabel {
+    text-align: left;
+    height:auto;
+    font-size:13px;
+    color:#003399;
+}
+
+/* 2012/09/10 Create */
+/* Button */
+.Button 
+{
+    width:100px;
+    font-size:13px;
+    color:#003399;
+}
